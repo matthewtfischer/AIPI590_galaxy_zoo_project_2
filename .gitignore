@@ -1,0 +1,13 @@
+.venv/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.DS_Store
+
+# large or regenerable data (rebuild with scripts/01 and 02; see README)
+data/raw/GalaxyZoo1_DR_table2.csv
+data/raw/gz2_hart16.csv.gz
+data/cutouts/
+data/cubes.npy
+data/cubes.ids.npy
+results/*.log

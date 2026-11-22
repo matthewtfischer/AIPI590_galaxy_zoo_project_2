@@ -1,0 +1,321 @@
+concept,run,target,score,n_concept_images
+spiral arms,0,spiral,1.0,1780
+spiral arms,0,elliptical,0.0,1780
+spiral arms,1,spiral,0.9908883826879271,1780
+spiral arms,1,elliptical,0.0,1780
+spiral arms,2,spiral,1.0,1780
+spiral arms,2,elliptical,0.0,1780
+spiral arms,3,spiral,0.9772209567198178,1780
+spiral arms,3,elliptical,0.0,1780
+spiral arms,4,spiral,0.9908883826879271,1780
+spiral arms,4,elliptical,0.0,1780
+spiral arms,5,spiral,1.0,1780
+spiral arms,5,elliptical,0.0,1780
+spiral arms,6,spiral,0.9977220956719818,1780
+spiral arms,6,elliptical,0.0,1780
+spiral arms,7,spiral,1.0,1780
+spiral arms,7,elliptical,0.0,1780
+spiral arms,8,spiral,0.9908883826879271,1780
+spiral arms,8,elliptical,0.0,1780
+spiral arms,9,spiral,0.9430523917995444,1780
+spiral arms,9,elliptical,0.0,1780
+spiral arms,10,spiral,1.0,1780
+spiral arms,10,elliptical,0.0,1780
+spiral arms,11,spiral,1.0,1780
+spiral arms,11,elliptical,0.0,1780
+spiral arms,12,spiral,1.0,1780
+spiral arms,12,elliptical,0.0,1780
+spiral arms,13,spiral,1.0,1780
+spiral arms,13,elliptical,0.0,1780
+spiral arms,14,spiral,0.9977220956719818,1780
+spiral arms,14,elliptical,0.0,1780
+spiral arms,15,spiral,0.9908883826879271,1780
+spiral arms,15,elliptical,0.0,1780
+spiral arms,16,spiral,0.9772209567198178,1780
+spiral arms,16,elliptical,0.0,1780
+spiral arms,17,spiral,0.9977220956719818,1780
+spiral arms,17,elliptical,0.0,1780
+spiral arms,18,spiral,1.0,1780
+spiral arms,18,elliptical,0.0,1780
+spiral arms,19,spiral,1.0,1780
+spiral arms,19,elliptical,0.0,1780
+bar,0,spiral,0.9111617312072893,882
+bar,0,elliptical,0.0,882
+bar,1,spiral,0.9749430523917996,882
+bar,1,elliptical,0.0,882
+bar,2,spiral,1.0,882
+bar,2,elliptical,0.0,882
+bar,3,spiral,1.0,882
+bar,3,elliptical,0.0,882
+bar,4,spiral,0.9908883826879271,882
+bar,4,elliptical,0.0,882
+bar,5,spiral,0.9954441913439636,882
+bar,5,elliptical,0.0,882
+bar,6,spiral,1.0,882
+bar,6,elliptical,0.0,882
+bar,7,spiral,1.0,882
+bar,7,elliptical,0.0,882
+bar,8,spiral,1.0,882
+bar,8,elliptical,0.0,882
+bar,9,spiral,1.0,882
+bar,9,elliptical,0.0,882
+bar,10,spiral,0.9977220956719818,882
+bar,10,elliptical,0.0,882
+bar,11,spiral,1.0,882
+bar,11,elliptical,0.0,882
+bar,12,spiral,0.7699316628701595,882
+bar,12,elliptical,0.0,882
+bar,13,spiral,0.9658314350797267,882
+bar,13,elliptical,0.0,882
+bar,14,spiral,0.9931662870159453,882
+bar,14,elliptical,0.0,882
+bar,15,spiral,1.0,882
+bar,15,elliptical,0.0,882
+bar,16,spiral,0.9954441913439636,882
+bar,16,elliptical,0.0,882
+bar,17,spiral,0.9886104783599089,882
+bar,17,elliptical,0.0,882
+bar,18,spiral,0.9977220956719818,882
+bar,18,elliptical,0.0,882
+bar,19,spiral,0.9248291571753986,882
+bar,19,elliptical,0.0,882
+prominent bulge,0,spiral,0.7539863325740319,242
+prominent bulge,0,elliptical,0.0,242
+prominent bulge,1,spiral,0.9612756264236902,242
+prominent bulge,1,elliptical,0.0,242
+prominent bulge,2,spiral,0.9567198177676538,242
+prominent bulge,2,elliptical,0.0,242
+prominent bulge,3,spiral,0.6195899772209568,242
+prominent bulge,3,elliptical,0.0,242
+prominent bulge,4,spiral,0.9179954441913439,242
+prominent bulge,4,elliptical,0.0,242
+prominent bulge,5,spiral,0.7061503416856492,242
+prominent bulge,5,elliptical,0.0,242
+prominent bulge,6,spiral,0.9225512528473804,242
+prominent bulge,6,elliptical,0.0,242
+prominent bulge,7,spiral,0.43507972665148065,242
+prominent bulge,7,elliptical,0.0,242
+prominent bulge,8,spiral,0.7198177676537585,242
+prominent bulge,8,elliptical,0.0,242
+prominent bulge,9,spiral,0.9908883826879271,242
+prominent bulge,9,elliptical,0.0,242
+prominent bulge,10,spiral,0.8678815489749431,242
+prominent bulge,10,elliptical,0.0,242
+prominent bulge,11,spiral,0.9544419134396356,242
+prominent bulge,11,elliptical,0.0,242
+prominent bulge,12,spiral,0.8177676537585421,242
+prominent bulge,12,elliptical,0.0,242
+prominent bulge,13,spiral,0.5945330296127562,242
+prominent bulge,13,elliptical,0.015909090909090907,242
+prominent bulge,14,spiral,0.7927107061503417,242
+prominent bulge,14,elliptical,0.0,242
+prominent bulge,15,spiral,0.8473804100227791,242
+prominent bulge,15,elliptical,0.0,242
+prominent bulge,16,spiral,0.8246013667425968,242
+prominent bulge,16,elliptical,0.0022727272727272726,242
+prominent bulge,17,spiral,0.9817767653758542,242
+prominent bulge,17,elliptical,0.0,242
+prominent bulge,18,spiral,1.0,242
+prominent bulge,18,elliptical,0.0,242
+prominent bulge,19,spiral,0.3826879271070615,242
+prominent bulge,19,elliptical,0.0,242
+edge-on disk,0,spiral,0.6127562642369021,302
+edge-on disk,0,elliptical,0.0,302
+edge-on disk,1,spiral,0.214123006833713,302
+edge-on disk,1,elliptical,0.0022727272727272726,302
+edge-on disk,2,spiral,0.34851936218678814,302
+edge-on disk,2,elliptical,0.0,302
+edge-on disk,3,spiral,0.18906605922551253,302
+edge-on disk,3,elliptical,0.0,302
+edge-on disk,4,spiral,0.27107061503416857,302
+edge-on disk,4,elliptical,0.0,302
+edge-on disk,5,spiral,0.20273348519362186,302
+edge-on disk,5,elliptical,0.0022727272727272726,302
+edge-on disk,6,spiral,0.3530751708428246,302
+edge-on disk,6,elliptical,0.0,302
+edge-on disk,7,spiral,0.4009111617312073,302
+edge-on disk,7,elliptical,0.0,302
+edge-on disk,8,spiral,0.5193621867881549,302
+edge-on disk,8,elliptical,0.0,302
+edge-on disk,9,spiral,0.2847380410022779,302
+edge-on disk,9,elliptical,0.0,302
+edge-on disk,10,spiral,0.11617312072892938,302
+edge-on disk,10,elliptical,0.08181818181818182,302
+edge-on disk,11,spiral,0.4533029612756264,302
+edge-on disk,11,elliptical,0.0,302
+edge-on disk,12,spiral,0.14350797266514806,302
+edge-on disk,12,elliptical,0.0022727272727272726,302
+edge-on disk,13,spiral,0.2460136674259681,302
+edge-on disk,13,elliptical,0.0,302
+edge-on disk,14,spiral,0.25968109339407747,302
+edge-on disk,14,elliptical,0.0022727272727272726,302
+edge-on disk,15,spiral,0.1867881548974943,302
+edge-on disk,15,elliptical,0.0,302
+edge-on disk,16,spiral,0.4145785876993166,302
+edge-on disk,16,elliptical,0.0,302
+edge-on disk,17,spiral,0.19362186788154898,302
+edge-on disk,17,elliptical,0.0022727272727272726,302
+edge-on disk,18,spiral,0.1662870159453303,302
+edge-on disk,18,elliptical,0.0022727272727272726,302
+edge-on disk,19,spiral,0.25968109339407747,302
+edge-on disk,19,elliptical,0.0,302
+round and smooth,0,spiral,0.0,703
+round and smooth,0,elliptical,1.0,703
+round and smooth,1,spiral,0.0,703
+round and smooth,1,elliptical,1.0,703
+round and smooth,2,spiral,0.0,703
+round and smooth,2,elliptical,1.0,703
+round and smooth,3,spiral,0.002277904328018223,703
+round and smooth,3,elliptical,1.0,703
+round and smooth,4,spiral,0.009111617312072893,703
+round and smooth,4,elliptical,1.0,703
+round and smooth,5,spiral,0.004555808656036446,703
+round and smooth,5,elliptical,1.0,703
+round and smooth,6,spiral,0.0,703
+round and smooth,6,elliptical,1.0,703
+round and smooth,7,spiral,0.002277904328018223,703
+round and smooth,7,elliptical,1.0,703
+round and smooth,8,spiral,0.0,703
+round and smooth,8,elliptical,1.0,703
+round and smooth,9,spiral,0.0,703
+round and smooth,9,elliptical,1.0,703
+round and smooth,10,spiral,0.004555808656036446,703
+round and smooth,10,elliptical,1.0,703
+round and smooth,11,spiral,0.009111617312072893,703
+round and smooth,11,elliptical,1.0,703
+round and smooth,12,spiral,0.0,703
+round and smooth,12,elliptical,1.0,703
+round and smooth,13,spiral,0.0,703
+round and smooth,13,elliptical,1.0,703
+round and smooth,14,spiral,0.05922551252847381,703
+round and smooth,14,elliptical,1.0,703
+round and smooth,15,spiral,0.0,703
+round and smooth,15,elliptical,1.0,703
+round and smooth,16,spiral,0.0,703
+round and smooth,16,elliptical,1.0,703
+round and smooth,17,spiral,0.01366742596810934,703
+round and smooth,17,elliptical,1.0,703
+round and smooth,18,spiral,0.0,703
+round and smooth,18,elliptical,1.0,703
+round and smooth,19,spiral,0.002277904328018223,703
+round and smooth,19,elliptical,1.0,703
+tightly wound arms,0,spiral,0.9544419134396356,609
+tightly wound arms,0,elliptical,0.0,609
+tightly wound arms,1,spiral,0.9726651480637813,609
+tightly wound arms,1,elliptical,0.0,609
+tightly wound arms,2,spiral,0.8337129840546698,609
+tightly wound arms,2,elliptical,0.0,609
+tightly wound arms,3,spiral,0.9703872437357631,609
+tightly wound arms,3,elliptical,0.006818181818181818,609
+tightly wound arms,4,spiral,0.9635535307517085,609
+tightly wound arms,4,elliptical,0.0,609
+tightly wound arms,5,spiral,0.9726651480637813,609
+tightly wound arms,5,elliptical,0.0,609
+tightly wound arms,6,spiral,0.9020501138952164,609
+tightly wound arms,6,elliptical,0.0,609
+tightly wound arms,7,spiral,0.9863325740318907,609
+tightly wound arms,7,elliptical,0.0,609
+tightly wound arms,8,spiral,0.9863325740318907,609
+tightly wound arms,8,elliptical,0.0,609
+tightly wound arms,9,spiral,0.9271070615034168,609
+tightly wound arms,9,elliptical,0.0,609
+tightly wound arms,10,spiral,0.9954441913439636,609
+tightly wound arms,10,elliptical,0.0,609
+tightly wound arms,11,spiral,0.89749430523918,609
+tightly wound arms,11,elliptical,0.031818181818181815,609
+tightly wound arms,12,spiral,0.9498861047835991,609
+tightly wound arms,12,elliptical,0.0,609
+tightly wound arms,13,spiral,0.8610478359908884,609
+tightly wound arms,13,elliptical,0.0,609
+tightly wound arms,14,spiral,0.958997722095672,609
+tightly wound arms,14,elliptical,0.0,609
+tightly wound arms,15,spiral,0.8952164009111617,609
+tightly wound arms,15,elliptical,0.0,609
+tightly wound arms,16,spiral,0.8656036446469249,609
+tightly wound arms,16,elliptical,0.011363636363636364,609
+tightly wound arms,17,spiral,0.7676537585421412,609
+tightly wound arms,17,elliptical,0.03636363636363636,609
+tightly wound arms,18,spiral,0.958997722095672,609
+tightly wound arms,18,elliptical,0.0,609
+tightly wound arms,19,spiral,0.9954441913439636,609
+tightly wound arms,19,elliptical,0.0,609
+loosely wound arms,0,spiral,0.7380410022779044,92
+loosely wound arms,0,elliptical,0.0,92
+loosely wound arms,1,spiral,0.4145785876993166,92
+loosely wound arms,1,elliptical,0.0,92
+loosely wound arms,2,spiral,0.8291571753986332,92
+loosely wound arms,2,elliptical,0.0,92
+loosely wound arms,3,spiral,0.23006833712984054,92
+loosely wound arms,3,elliptical,0.11818181818181818,92
+loosely wound arms,4,spiral,0.3211845102505695,92
+loosely wound arms,4,elliptical,0.04318181818181818,92
+loosely wound arms,5,spiral,0.35079726651480636,92
+loosely wound arms,5,elliptical,0.004545454545454545,92
+loosely wound arms,6,spiral,0.11161731207289294,92
+loosely wound arms,6,elliptical,0.19772727272727272,92
+loosely wound arms,7,spiral,0.3052391799544419,92
+loosely wound arms,7,elliptical,0.011363636363636364,92
+loosely wound arms,8,spiral,0.1958997722095672,92
+loosely wound arms,8,elliptical,0.013636363636363636,92
+loosely wound arms,9,spiral,0.4031890660592255,92
+loosely wound arms,9,elliptical,0.004545454545454545,92
+loosely wound arms,10,spiral,0.4305239179954442,92
+loosely wound arms,10,elliptical,0.006818181818181818,92
+loosely wound arms,11,spiral,0.6309794988610479,92
+loosely wound arms,11,elliptical,0.0,92
+loosely wound arms,12,spiral,0.6651480637813212,92
+loosely wound arms,12,elliptical,0.0,92
+loosely wound arms,13,spiral,0.45558086560364464,92
+loosely wound arms,13,elliptical,0.0,92
+loosely wound arms,14,spiral,0.4168564920273349,92
+loosely wound arms,14,elliptical,0.006818181818181818,92
+loosely wound arms,15,spiral,0.12300683371298406,92
+loosely wound arms,15,elliptical,0.1318181818181818,92
+loosely wound arms,16,spiral,0.38724373576309795,92
+loosely wound arms,16,elliptical,0.6477272727272727,92
+loosely wound arms,17,spiral,0.03644646924829157,92
+loosely wound arms,17,elliptical,0.15227272727272728,92
+loosely wound arms,18,spiral,0.10022779043280182,92
+loosely wound arms,18,elliptical,0.01818181818181818,92
+loosely wound arms,19,spiral,0.11845102505694761,92
+loosely wound arms,19,elliptical,0.056818181818181816,92
+random,0,spiral,0.3234624145785877,100
+random,0,elliptical,1.0,100
+random,1,spiral,0.3712984054669704,100
+random,1,elliptical,0.4068181818181818,100
+random,2,spiral,0.8314350797266514,100
+random,2,elliptical,0.0,100
+random,3,spiral,0.04783599088838269,100
+random,3,elliptical,0.9295454545454546,100
+random,4,spiral,0.9179954441913439,100
+random,4,elliptical,0.0,100
+random,5,spiral,0.7585421412300684,100
+random,5,elliptical,0.9977272727272727,100
+random,6,spiral,0.37813211845102507,100
+random,6,elliptical,0.15681818181818183,100
+random,7,spiral,0.12072892938496584,100
+random,7,elliptical,0.9477272727272728,100
+random,8,spiral,0.4145785876993166,100
+random,8,elliptical,0.9295454545454546,100
+random,9,spiral,0.7881548974943052,100
+random,9,elliptical,0.09090909090909091,100
+random,10,spiral,0.8200455580865603,100
+random,10,elliptical,0.006818181818181818,100
+random,11,spiral,0.07972665148063782,100
+random,11,elliptical,0.9886363636363636,100
+random,12,spiral,0.6856492027334852,100
+random,12,elliptical,0.44772727272727275,100
+random,13,spiral,0.357630979498861,100
+random,13,elliptical,1.0,100
+random,14,spiral,0.08428246013667426,100
+random,14,elliptical,0.7090909090909091,100
+random,15,spiral,0.03644646924829157,100
+random,15,elliptical,0.9795454545454545,100
+random,16,spiral,0.14350797266514806,100
+random,16,elliptical,0.20909090909090908,100
+random,17,spiral,0.24145785876993167,100
+random,17,elliptical,0.7863636363636364,100
+random,18,spiral,0.4601366742596811,100
+random,18,elliptical,1.0,100
+random,19,spiral,0.08428246013667426,100
+random,19,elliptical,0.8454545454545455,100
